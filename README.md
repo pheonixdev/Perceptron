@@ -8,7 +8,7 @@ trained accordingly. The accuracies are then computed for different values of re
 
 ## Author
 
-Sabarinath Muralidharan Sujatha (201591883)
+Sabarinath Muralidharan Sujatha
 
 ## Versions
 
